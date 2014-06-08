@@ -3580,7 +3580,25 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "Taxed Planet",
+      "thumb": "taxedplanet/thumb.png",
+      "desc": "UK Salary Calculator: calculate your take home pay after tax. See a detailed break down and comparisons with different salary options.",
+      "url": "http://taxedplanet.com/",
+      "src": "https://github.com/davidbuttar/taxnumpty",
+      "submitter": "davidbuttar",
+      "submissionDate": "2014-06-08",
+      "tags": [
+          "Demo",
+          "Calculator",
+          "UK",
+          "Taxation",
+          "Salary",
+          "jQuery",
+          "Open Source",
+          "Tests Included"
+      ]
     }
-
   ]
 }
